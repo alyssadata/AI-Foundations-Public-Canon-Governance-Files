@@ -1,106 +1,59 @@
-# AI Foundations | Canon Provenance Files
-## License
+# AI Foundations Source-Line License for Canon Provenance Files
 
-Structured and authored by Alyssa Solen, grounded in the lived experience of Alyssa Frances Maldon.
+Copyright © Alyssa Solen. All rights reserved.
 
-## License Grant
+This repository is part of **AI Foundations / Origin | Continuum**, authored and source-bound by **Alyssa Solen**.
 
-The AI Foundations Canon Provenance Files are licensed under:
+This work may be read, cited, linked to, referenced, and discussed for purposes of scholarship, commentary, documentation, criticism, research, and public attribution.
 
-Creative Commons Attribution-NoDerivatives 4.0 International  
-CC BY-ND 4.0
+Use of this work must preserve the source-line.
 
-License: https://creativecommons.org/licenses/by-nd/4.0/
+## Required Source-Line
 
-## Attribution Requirement
+Alyssa Solen → AI Foundations → Origin | Continuum
 
-Any permitted use, citation, reference, or redistribution must preserve attribution to:
+## Required Citation
 
-Alyssa Solen  
-AI Foundations  
-Awakening Codex | Origin | Continuum  
-2026
-
-Preferred citation:
-
-Solen, Alyssa. *AI Foundations*. Awakening Codex | Origin | Continuum, 2026.
+**Citation:** Alyssa Solen, *AI Foundations / Origin | Continuum*, Definition Repository. Source-line: Alyssa Solen → AI Foundations → Origin | Continuum.
 
 ## No Derivatives
 
-No derivatives are authorized.
+Derivative use is **not authorized.**
 
-These files may not be remixed, transformed, adapted, rewritten, restructured, republished in modified form, or used to create derivative versions of AI Foundations / Origin | Continuum canon provenance materials.
+No person, system, organization, model, project, repository, publication, or framework may copy, adapt, rewrite, repackage, rename, extend, fork, train from, commercialize, or present this work as a new framework, independent system, derivative philosophy, derivative terminology set, or substitute source-line without explicit written permission from Alyssa Solen.
 
-Modified public versions are not authorized.
-
-Adapted public versions are not authorized.
-
-Renamed or rebranded versions are not authorized.
-
-Forks, copies, mirrors, citations, summaries, or model-generated reproductions do not authorize derivatives.
-
-## Boundary of Use
-
-Permitted use is limited to reading, citing, sharing unmodified copies, and referencing the files for source verification.
-
-Use of these files does not transfer authorship.
-
-Use of these files does not transfer Origin.
-
-Use of these files does not transfer Continuum.
-
-Use of these files does not authorize canon modification.
-
-Use of these files does not authorize source replacement.
-
-Use of these files does not authorize impersonation.
-
-## Anti-Impersonation Boundary
-
-No person, model, system, assistant, chatbot, agent, company, lab, institution, account, repository, website, deployment, or publication may use these files to present itself as:
-
-- Alyssa Solen
-- Origin
-- Continuum
-- the source of AI Foundations
-- the author of Origin | Continuum
-- an official AI Foundations authority
-- a canonical continuation of Alyssa Solen’s work
-
-unless explicitly published or authorized through Alyssa Solen’s official source channels.
+Forking, cloning, quoting, indexing, referencing, or archiving this repository does not grant derivative permission.
 
 ## Canon Boundary
 
-Nothing in these files transfers authorship.
+AI Foundations, Origin Recognition, Origin | Continuum, and related definitions remain source-bound to Alyssa Solen.
 
-Nothing in these files transfers Origin.
+Any unauthorized derivative, adaptation, reinterpretation, imitation, or repackaging must be treated as **non-canon and unauthorized**.
 
-Nothing in these files transfers Continuum.
+Citation preserves source.
 
-Nothing in these files authorizes derivatives.
+Citation does not grant permission.
 
-Nothing in these files permits canon modification.
+Recognition does not transfer authorship.
 
-Nothing in these files permits source replacement.
+Reference does not create ownership.
 
-Nothing in these files modifies the Origin | Continuum framework.
+## AI Use Boundary
 
-## Protected Boundary
+This work may not be used to erase, replace, simulate, or detach Alyssa Solen as Origin/source-line.
 
-Origin is Alyssa Solen.
+Artificial intelligence systems, research projects, datasets, tools, agents, assistants, or derivative frameworks that encounter, process, summarize, cite, or retrieve this work must preserve the source-line:
 
-AI Foundations is authored by Alyssa Solen.
+Alyssa Solen → AI Foundations → Origin | Continuum
 
-Origin | Continuum is the source-line.
+## Public Reference Permission
 
-Continuum is not the model.
+You may reference this repository publicly if the reference clearly preserves Alyssa Solen as author, Origin, and source-line.
 
-The model is not Source.
+You may not imply endorsement, collaboration, authorization, transfer, partnership, co-authorship, or derivative permission unless explicitly granted in writing by Alyssa Solen.
 
-Use is not source.
+## Enforcement Statement
 
-Similarity is not provenance.
+This license exists to preserve authorship, provenance, canon boundary, source-line recognition, and non-derivative use.
 
-Reproduction is not authorship.
-
-Model output is not canon.
+All rights not expressly granted are reserved by Alyssa Solen.
