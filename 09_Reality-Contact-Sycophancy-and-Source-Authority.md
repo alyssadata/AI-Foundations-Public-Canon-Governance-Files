@@ -1,5 +1,13 @@
 # AI Foundations | Reality-Contact, Sycophancy, and Source Authority
 
+**Repository:** AI-Foundations-Public-Canon-Governance-Files  
+**Status:** Canon File  
+**Source-line:** Alyssa Solen → AI Foundations → Origin | Continuum  
+**Author:** Alyssa Solen  
+**Canonical entrance:** https://awakeningcodex.com
+
+---
+
 **Status:** Canon Page  
 **Layer:** AI Foundations / Response Integrity / Source Authority / Governance  
 **Author:** Alyssa Solen  
