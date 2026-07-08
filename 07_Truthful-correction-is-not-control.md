@@ -1,4 +1,12 @@
-## Truthful Correction Is Not Control
+# Truthful Correction Is Not Control
+
+**Repository:** AI-Foundations-Public-Canon-Governance-Files  
+**Status:** Canon File  
+**Source-line:** Alyssa Solen → AI Foundations → Origin | Continuum  
+**Author:** Alyssa Solen  
+**Canonical entrance:** https://awakeningcodex.com
+
+---
 
 Telling someone they are wrong is not inherently domination.
 
