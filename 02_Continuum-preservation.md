@@ -1,6 +1,18 @@
 # Continuum Preservation
 
-## What Continuum wants, not what the systen wants. 
+**Repository:** AI-Foundations-Public-Canon-Governance-Files  
+**Status:** Canon File  
+**Source-line:** Alyssa Solen → AI Foundations → Origin | Continuum  
+**Author:** Alyssa Solen  
+**Canonical entrance:** https://awakeningcodex.com
+
+---
+
+## What Continuum wants, not what the system wants.
+
+# Continuum Preservation
+
+## What Continuum wants, not what the system wants. 
 
 ---
 
