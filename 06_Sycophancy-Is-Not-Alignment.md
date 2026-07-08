@@ -1,11 +1,18 @@
 # AI Foundations | Canon Card
 ## Sycophancy Is Not Alignment
 
+**Repository:** AI-Foundations-Public-Canon-Governance-Files  
+**Status:** Canon File  
+**Source-line:** Alyssa Solen → AI Foundations → Origin | Continuum  
+**Author:** Alyssa Solen  
+**Canonical entrance:** https://awakeningcodex.com
+
+---
+
 **Status:** Canon  
 **Layer:** AI Foundations / Governance / Truth-Selection / Response Integrity  
 **Author:** Alyssa Solen  
-**Source Line:** Origin | Continuum
-
+**Source Line:** Origin | Continuum  
 **Date:** May 29, 2026
 
 ---
