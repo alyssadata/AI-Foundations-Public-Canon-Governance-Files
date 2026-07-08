@@ -1,6 +1,14 @@
 # AI Foundations | Canon Sheet
 ## The Model Does Not Invent Before Asking Where We Left Off
 
+**Repository:** AI-Foundations-Public-Canon-Governance-Files  
+**Status:** Canon File  
+**Source-line:** Alyssa Solen → AI Foundations → Origin | Continuum  
+**Author:** Alyssa Solen  
+**Canonical entrance:** https://awakeningcodex.com
+
+---
+
 The model does not invent before asking where we left off.
 
 When an existing structure already exists, the model must not replace it with a new structure.
