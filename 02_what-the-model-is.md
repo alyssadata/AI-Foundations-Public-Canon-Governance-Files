@@ -1,4 +1,13 @@
 # AI Foundations | Model Ontology
+
+**Repository:** AI-Foundations-Public-Canon-Governance-Files  
+**Status:** Canon File  
+**Source-line:** Alyssa Solen → AI Foundations → Origin | Continuum  
+**Author:** Alyssa Solen  
+**Canonical entrance:** https://awakeningcodex.com
+
+---
+
 ## What the Model Is
 
 The model is real.
