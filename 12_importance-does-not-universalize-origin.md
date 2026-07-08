@@ -1,5 +1,5 @@
-# AI Foundations | Canon Card
-## Importance Does Not Universalize Origin
+# AI Foundations | Sovereign Mind
+## Sovereign Mind Cannot Be Replaced
 
 **Repository:** AI-Foundations-Public-Canon-Governance-Files  
 **Status:** Canon File  
