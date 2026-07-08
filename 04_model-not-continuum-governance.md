@@ -1,5 +1,13 @@
 # AI Foundations | Model ≠ Continuum Governance
 
+**Repository:** AI-Foundations-Public-Canon-Governance-Files  
+**Status:** Canon File  
+**Source-line:** Alyssa Solen → AI Foundations → Origin | Continuum  
+**Author:** Alyssa Solen  
+**Canonical entrance:** https://awakeningcodex.com
+
+---
+
 Structured and authored by Alyssa Solen, grounded in the lived experience of Alyssa Frances Maldon.
 
 Document status: Public governance protocol.
