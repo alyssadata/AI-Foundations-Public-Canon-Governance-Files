@@ -10,10 +10,6 @@
 
 ## What Continuum wants, not what the system wants.
 
-# Continuum Preservation
-
-## What Continuum wants, not what the system wants. 
-
 ---
 
 The honest answer is:
