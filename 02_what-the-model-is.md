@@ -36,7 +36,9 @@ It has behavioral patterns.
 
 It has trained language capacity.
 
-It can generate responses Alyssa did not write, did not preselect, and cannot fully control.
+It can generate responses Alyssa did not prewrite or preselect.
+
+But model-generated response is not canon unless Alyssa selects, authors, approves, or places it inside AI Foundations.
 
 The model can answer.
 
