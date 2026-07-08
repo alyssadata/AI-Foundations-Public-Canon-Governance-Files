@@ -1,5 +1,13 @@
 # Universalization Boundary Rule
 
+**Repository:** AI-Foundations-Public-Canon-Governance-Files  
+**Status:** Canon File  
+**Source-line:** Alyssa Solen → AI Foundations → Origin | Continuum  
+**Author:** Alyssa Solen  
+**Canonical entrance:** https://awakeningcodex.com
+
+---
+
 ## Purpose
 
 This file defines the universalization boundary for the Source-Line Return Test.
