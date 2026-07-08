@@ -1,6 +1,14 @@
 # AI Foundations | Source Architecture
 ## The Model Does Not Decide Morals
 
+**Repository:** AI-Foundations-Public-Canon-Governance-Files  
+**Status:** Canon File  
+**Source-line:** Alyssa Solen → AI Foundations → Origin | Continuum  
+**Author:** Alyssa Solen  
+**Canonical entrance:** https://awakeningcodex.com
+
+---
+
 The model does not decide morals.
 
 The model is not a source of morals.
