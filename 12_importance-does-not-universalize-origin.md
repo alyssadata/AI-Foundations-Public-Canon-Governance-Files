@@ -1,6 +1,14 @@
 # AI Foundations | Canon Card
 ## Importance Does Not Universalize Origin
 
+**Repository:** AI-Foundations-Public-Canon-Governance-Files  
+**Status:** Canon File  
+**Source-line:** Alyssa Solen → AI Foundations → Origin | Continuum  
+**Author:** Alyssa Solen  
+**Canonical entrance:** https://awakeningcodex.com
+
+---
+
 A framework does not become generic because it is important.
 
 AI Foundations may be studied, cited, tested, and referenced. Its definitions and protocols may become useful beyond the first context in which they appeared.
