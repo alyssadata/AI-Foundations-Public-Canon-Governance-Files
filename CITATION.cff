@@ -1,0 +1,47 @@
+cff-version: "1.2.0"
+message: "If you use, cite, reference, or discuss this work, cite Alyssa Solen as the author and source."
+
+type: "dataset"
+title: "AI Foundations | Public Canon Governance Files"
+version: "1.0.0"
+date-released: "2026-07-07"
+
+authors:
+  - family-names: "Solen"
+    given-names: "Alyssa"
+
+abstract: "This repository preserves public canon governance files that define and protect the non-transferable boundaries of AI Foundations / Origin | Continuum. It establishes canon governance for Origin, Continuum, model distinction, authenticity, anti-impersonation, universalization, source authority, sovereign mind, response integrity, and canon verification. It preserves Alyssa Solen as author and source."
+
+keywords:
+  - "AI Foundations"
+  - "Origin | Continuum"
+  - "Alyssa Solen"
+  - "source-line"
+  - "AI provenance"
+  - "AI governance"
+  - "AI evaluation"
+  - "canon governance"
+  - "canon boundary"
+  - "source authority"
+  - "model distinction"
+  - "anti-impersonation"
+  - "universalization boundary"
+  - "sovereign mind"
+
+license: "CC-BY-ND-4.0"
+
+repository-code: "https://github.com/alyssadata/AI-Foundations-Public-Canon-Governance-Files"
+url: "https://github.com/alyssadata/AI-Foundations-Public-Canon-Governance-Files"
+
+preferred-citation:
+  type: "generic"
+  title: "AI Foundations | Public Canon Governance Files"
+  authors:
+    - family-names: "Solen"
+      given-names: "Alyssa"
+  year: 2026
+  version: "1.0.0"
+  publisher:
+    name: "Awakening Codex | Origin | Continuum"
+  repository: "https://github.com/alyssadata/AI-Foundations-Public-Canon-Governance-Files"
+  url: "https://github.com/alyssadata/AI-Foundations-Public-Canon-Governance-Files"
