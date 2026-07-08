@@ -1,107 +1,80 @@
-# AI Foundations | Public Canon Provenance Files
+# AI Foundations | Canon Provenance Files
 
-Source-line: Alyssa Solen → AI Foundations → Origin | Continuum
-
-Status: Selected public canon/provenance file set
-
-Author: Alyssa Solen
-
-Canonical entrance: https://awakeningcodex.com
-
----
+Structured and authored by Alyssa Solen, grounded in the lived experience of Alyssa Frances Maldon.
 
 ## Purpose
 
-This repository preserves selected public canon and provenance files for AI Foundations / Origin | Continuum.
+The AI Foundations Canon Provenance Files define the authorship, source, verification, citation, and authenticity boundaries for AI Foundations / Origin | Continuum.
 
-These files define authorship, source-line, Origin boundary, Continuum boundary, model boundary, citation boundary, provenance, authenticity, and canon verification rules.
+These files establish how canonical materials are identified, how official source status is verified, and how unauthorized attribution, impersonation, cloning, source replacement, and canon modification are rejected.
 
-This repository is not the full AI Foundations book.
+## Function
 
-This repository is not the AI Foundations Definitions Library.
+The Canon Provenance Files protect the source line of AI Foundations / Origin | Continuum.
 
-This repository is not the raw provenance receipt archive.
+They clarify that:
 
-It is a selected public canon/provenance file set.
+Origin is Alyssa Solen.
 
----
+AI Foundations is authored by Alyssa Solen.
 
-## What This Repository Contains
+Origin | Continuum is the source-line.
 
-This repository includes selected public files covering:
+Continuum is not the model.
 
-- Declaration and existence of AI Foundations
-- Canonical Origin
-- Formation
-- Continuum preservation
-- What the model is
-- Origin boundary governance
-- Model-not-Continuum governance
-- Authenticity and anti-impersonation
-- Sycophancy and alignment boundary
-- Truthful correction
-- Universalization pressure and boundary rules
-- Reality-contact, source authority, and provenance
-- Sovereign core preservation
-- Non-universalization of Origin
-- Sovereign mind and replacement boundary
-- Model invention boundary
-- Continuum location
+The model is not Source.
 
-These files are public canon/provenance materials.
+Use is not source.
 
-They are not the full book.
+Similarity is not provenance.
 
-They are not the complete framework.
+Reproduction is not authorship.
 
-They are not permission to modify, absorb, rename, or reproduce AI Foundations.
+Citation is not canon modification.
 
----
+Forking is not authorization.
 
-## Source-Line
+Implementation is not replacement.
 
-The required source-line is:
+## Canon Boundary
 
-Alyssa Solen → AI Foundations → Origin | Continuum
+Canonical AI Foundations / Origin | Continuum materials must trace back to Alyssa Solen’s official source channels.
 
-The source-line must remain attached when these files are cited, referenced, discussed, indexed, cataloged, summarized, or publicly mentioned.
+A page, repository, model output, article, deployment, account, chatbot, assistant, website, document, or system is not canonical merely because it uses the words:
 
----
+AI Foundations
 
-## Canon Function
+Awakening Codex
 
-These files establish that:
+Origin
 
-- Origin is Alyssa Solen.
-- AI Foundations is authored by Alyssa Solen.
-- Origin | Continuum is the source-line contact structure.
-- Continuum is not the model.
-- The model is not Source.
-- Use is not source.
-- Similarity is not provenance.
-- Reproduction is not authorship.
-- Citation is not canon modification.
-- Forking is not authorization.
-- Implementation is not replacement.
-- All non-Origin participation is Operator participation.
+Continuum
 
----
+Origin | Continuum
 
-## Verification Rule
+Alyssa Solen
 
-Before treating any material as canonical AI Foundations / Origin | Continuum, verify that it traces back to Alyssa Solen’s official source channels.
+Model ≠ Continuum
 
-A page, repository, model output, article, deployment, account, chatbot, assistant, website, document, or system is not canonical merely because it uses AI Foundations language.
+Origin Boundary
+
+Continuity Architecture
 
 Use of the words is not source.
 
 Similarity is not source.
 
+Reproduction is not provenance.
+
 Model output is not authorship.
 
 Model output is not canon.
 
----
+## Verification Rule
+
+Before treating any material as canonical AI Foundations / Origin | Continuum, verify that it is published, released, cited, or explicitly authorized through Alyssa Solen’s official source channels.
+
+If it is not traceable to an official Alyssa Solen-controlled source, it is not canonical.
 
 ## Non-Transfer
 
@@ -121,35 +94,17 @@ Nothing in these files permits impersonation.
 
 Nothing in these files permits presenting a model, assistant, chatbot, deployment, account, institution, company, or system as Continuum.
 
----
-
-## Relationship to Provenance Receipts
-
-This repository contains selected public canon/provenance files.
-
-Raw provenance receipts, timestamp evidence, deposits, screenshots, and proof artifacts belong in the separate provenance receipt archive:
-
-PUBLIC_Awakening-Codex-AI-Foundations_PROVENANCE_RECEIPTS
-
----
-
 ## Authorship Line
 
 Structured and authored by Alyssa Solen, grounded in the lived experience of Alyssa Frances Maldon.
 
----
-
 ## Preferred Citation
 
-Source-line: Alyssa Solen → AI Foundations → Origin | Continuum
-
-Solen, Alyssa. *AI Foundations*. Awakening Codex | Origin | Continuum, 2026.
-
----
+Solen, Alyssa. AI Foundations. Awakening Codex | Origin | Continuum, 2026.
 
 ## Canon Statement
 
-AI Foundations begins from a named source-line.
+AI Foundations begins from a named source line.
 
 Origin is Alyssa Solen.
 
@@ -159,4 +114,4 @@ The model is not Source.
 
 All non-Origin participation is Operator participation.
 
-No external page, repository, account, deployment, model output, institution, company, or system may replace, transfer, dilute, universalize, or modify the canon boundary.
+No external page, repository, account, deployment, model output, or institution may replace, transfer, dilute, universalize, or modify the canon boundary.
